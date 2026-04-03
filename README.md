@@ -1,29 +1,107 @@
-ProtoSky
-<p align="center"> <img src="ProtoSky-Logo.png" alt="ProtoSky Logo" width="120"> </p>
+## ProtoSky
 
-ProtoSky is a modern productivity web app focused on clarity, speed, and a calm user experience. It combines task management, planning, and scheduling into a single interface that avoids the usual clutter found in traditional tools.
+<p align="center">
+  <img src="ProtoSky-Logo.png" alt="ProtoSky Logo" width="120">
+</p>
 
-The goal is simple: make productivity feel natural instead of overwhelming.
+<p align="center">
+  <strong>A quiet place to think, plan, and get things done.</strong>
+</p>
 
-Features
-Smart folder-based organization for tasks and plans
-Integrated calendar for date-based scheduling
-Minimal task system designed for focus
-Clean, responsive interface with a glass-style design approach
-Dark and light mode support
-Mobile-friendly layout with a phone-style experience
-Vision
+<p align="center">
+  <i>Less noise. More clarity.</i>
+</p>
 
-ProtoSky is built around a straightforward idea: productivity tools should reduce stress, not create it.
-It avoids unnecessary complexity and focuses on delivering a smooth, distraction-free workflow.
+---
 
-Tech Stack
-HTML
-CSS
-JavaScript
+## Overview
 
-Structured with multiple files for scalability and maintainability.
+ProtoSky is a modern productivity web app built for people who want structure without chaos.
 
-Status
+Most tools overload you with features, panels, and settings you don’t need. ProtoSky takes a different approach — it strips things down to what actually helps: clear tasks, simple planning, and a layout that doesn’t fight your brain.
 
-Currently in development. The project is being actively improved with UI upgrades, bug fixes, and new features.
+It’s fast, minimal, and designed to stay out of your way.
+
+---
+
+## Core Features
+
+### Structured Planning  
+Organize your work into folders and sections that make sense.
+
+### Integrated Calendar  
+A built-in calendar that lets you see your time clearly.
+
+### Fast Task System  
+Manage tasks instantly without friction.
+
+### Clean Interface  
+A modern glass-style UI that feels light and focused.
+
+### Theme Support  
+Dark and light modes.
+
+### Responsive Design  
+Works on desktop and adapts into a phone-style layout.
+
+---
+
+## Design Philosophy
+
+ProtoSky is built on a simple belief:
+
+> If a tool makes you feel overwhelmed, it’s failing its job.
+
+Everything is designed to feel calm, predictable, and easy to use.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+</p>
+
+---
+
+## Project Status
+
+Actively in development.
+
+- UI improvements in progress  
+- Planner and folder system expanding  
+- Ongoing bug fixes and polishing  
+
+---
+
+## Roadmap
+
+- Persistent data storage  
+- Drag-and-drop tasks  
+- Smarter calendar interactions  
+- Custom themes  
+- Optional integrations  
+
+---
+
+## Status
+
+``in development...``
+
+---
+
+## Versions Names
+
+- SparkPlay
+- SS - StarSpark
+- Cupcake
+
+---
+
+## Final Note
+
+ProtoSky isn’t trying to be everything.
+
+It’s trying to be the one tool you actually stick with.
