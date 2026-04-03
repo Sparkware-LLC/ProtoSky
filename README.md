@@ -1,4 +1,4 @@
-## ProtoSky
+## README
 
 <p align="center">
   <img src="ProtoSky-Logo.png" alt="ProtoSky Logo" width="120">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>Less noise. More clarity.</i>
+  <i>ProtoSky</i>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ProtoSky is a modern productivity web app built for people who want structure without chaos.
 
-Most tools overload you with features, panels, and settings you don’t need. ProtoSky takes a different approach — it strips things down to what actually helps: clear tasks, simple planning, and a layout that doesn’t fight your brain.
+Most tools overload you with features, panels, and settings you don’t need. ProtoSky takes a different approach, it strips things down to what actually helps: clear tasks, simple planning, and a layout that doesn’t fight your brain.
 
 It’s fast, minimal, and designed to stay out of your way.
 
