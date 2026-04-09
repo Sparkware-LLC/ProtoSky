@@ -62,7 +62,9 @@ Everything is designed to feel calm, predictable, and easy to use.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
 </p>
+ 
 
 ---
 
@@ -99,6 +101,10 @@ Actively in development.
 - Cupcake
 
 ---
+
+## OS Suports
+
+- Android
 
 ## Final Note
 
