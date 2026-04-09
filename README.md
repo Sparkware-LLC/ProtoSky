@@ -106,6 +106,8 @@ Actively in development.
 
 - Android
 
+---
+
 ## Final Note
 
 ProtoSky isn’t trying to be everything.
