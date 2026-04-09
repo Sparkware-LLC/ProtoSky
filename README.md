@@ -70,9 +70,7 @@ Everything is designed to feel calm, predictable, and easy to use.
 
 ---
 
-## Project Status
-
-Actively in development.
+## Project Status  
 
 - UI improvements in progress  
 - Planner and folder system expanding  
